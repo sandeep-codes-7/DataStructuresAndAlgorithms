@@ -2,7 +2,7 @@ import java.util.HashSet;
 
 public class FindSubArraysWithEqualSum {
 
-    
+    //2395 Find Two Sub arrays with equal sum
     public static Boolean hasSubarrays(int[] arr){
         HashSet<Integer> set = new HashSet<>();
         for(int i=0;i<arr.length-1;i++){
