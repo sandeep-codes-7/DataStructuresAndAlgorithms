@@ -4,7 +4,6 @@ public class TwoSumII {
     # leetcode 167
     - given a sorted Array nums={2,7,11,15} target=9
     - need to find the positions of pairs that sums up to the target
-
     Since the array is sorted and the question asked us to find a specific pair that sums up to the target.
     we are going to use twopointer approach to solve this problem.
 
